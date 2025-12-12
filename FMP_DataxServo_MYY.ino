@@ -15,18 +15,13 @@
 // WiFiClient client;
  
 // WiFi credentials
-// const char* ssid = "Aussie";
-// const char* password = "Vanessa@2007";
-// const char* ssid = "TU/e@Microstad";
-// const char* password = "TU/e12en13december!";
-
-const char* ssid = "MW41NF_7C98";
-const char* password = "FxcJpVx93Vuk";
+const char* ssid = " ";
+const char* password = " ";
  
-const char* kitID = "18311";
-const char* apiURL = "https://api.smartcitizen.me/v0/devices/18311";
+const char* kitID = " ";
+const char* apiURL = "https://api.smartcitizen.me/v0/devices/____";
 
-const char* OOCSIName = "FMPSCData_finalMYY_###";
+const char* OOCSIName = " ";
 const char* hostserver = "oocsi.id.tue.nl";
 
 OOCSI oocsi = OOCSI ();
